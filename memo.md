@@ -61,3 +61,20 @@ sudo pip3 install jupyter
 ```
 
 Just run `jupyter notebook` in a directory.
+
+## My First App
+
+* Iris
+* 機械学習では個々のアイテムを **サンプル**, その特性を **特徴量** と呼ぶ
+* モデルを **作る** ためのデータと、それを **評価する** のに使うデータは別々のものでないといけない
+  * 前者を **訓練データ(training data)** ないしは **訓練セット(training set)** と呼ぶ
+  * 後者を **テストデータ(test data)** ないしは **テストセット(test set)** と呼ぶ
+* データをよく観察する
+  * おかしな値が入ってないか？単位は揃っているか
+  * 散布図にしてみる
+  * 特徴量の数が少なければ **ペアプロット** で組み合わせをプロットする
+  * NOTE: `%matplotlib inline` と書いておけばグラフとか勝手に描画してくれる
+* k-最近傍法 (k-Nearest Neighbors)
+* このアプリは **教師あり学習**
+
+# Ch2
