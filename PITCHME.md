@@ -3,7 +3,7 @@
 ---
 
 
-# [Splatoon2](https://www.nintendo.co.jp/switch/aab6a/index.html) とは？
+## [Splatoon2](https://www.nintendo.co.jp/switch/aab6a/index.html) とは？
 
 - 2017/07/21 に Switch 向けに発売されたアクションシューティングゲーム 🎮
 - 通称「イカ2」 💭
@@ -15,7 +15,7 @@
 
 ---
 
-# 何がそんなに楽しいの？
+## 何がそんなに楽しいの？
 
 ※個人的な意見です
 
@@ -38,16 +38,14 @@
 ---
 
 
-# いい時代になりました 🤗
+## いい時代になりました 🤗
 
 Youtube などで上手い人の動画を見て勉強すればいいんです！ 📺 👨‍🎓
 
 ---
 
 
-# Yaritaiji channel
-
-https://www.youtube.com/channel/UCTrckUWmmrRZcNrfu1mZDOg
+## [Yaritaiji channel](https://www.youtube.com/channel/UCTrckUWmmrRZcNrfu1mZDOg)
 
 - 口数は少ない
 - 更新頻度は少なめ。週に1~2本くらい（2017-09-14現在）
@@ -60,9 +58,7 @@ https://www.youtube.com/channel/UCTrckUWmmrRZcNrfu1mZDOg
 
 ---
 
-# のわ / NOWA
-
-https://www.youtube.com/channel/UCltOCekv4WA8EKicOFzZPBA/featured
+## [のわ / NOWA](https://www.youtube.com/channel/UCltOCekv4WA8EKicOFzZPBA/featured)
 
 - 常に喋ってるが不快感はない（個人の感想です）
 - 更新頻度多め。日に1本は上がってる（2017-09-14現在）
@@ -76,9 +72,7 @@ https://www.youtube.com/channel/UCltOCekv4WA8EKicOFzZPBA/featured
 ---
 
 
-# ダステル - DustelBox
-
-https://www.youtube.com/channel/UCoPJt6v9tBSTVRE7e_JUjQg
+## [ダステル - DustelBox](https://www.youtube.com/channel/UCoPJt6v9tBSTVRE7e_JUjQg)
 
 - プロゲーマー
 - 音声読み上げソフトで読み上げてるコメントと常に喋ってる
@@ -92,7 +86,8 @@ https://www.youtube.com/channel/UCoPJt6v9tBSTVRE7e_JUjQg
 
 ---
 
-# 動画からわかったこと
+## 動画からわかったこと
+
 - 攻めるタイミングを見極める ⏲️ （一人で突っ走らない）
 - 他人のせいにしない 🙅
 - 「xxxしていく〜」と言う 🗣️ （うまい人になりきる 💆 ）
@@ -102,15 +97,15 @@ https://www.youtube.com/channel/UCoPJt6v9tBSTVRE7e_JUjQg
 
 ---
 
-# ガチマ勝利方法
+## ガチマ勝利方法
 
 ---
 
-# 教えて下さい 🙇
+## 教えて下さい 🙇
 
 ---
 
-# TrueSkill
+## True Skill
 
 - マッチングのアルゴリズム
   - Splatoon2 でも採用されているとのこと
@@ -120,8 +115,7 @@ https://www.youtube.com/channel/UCoPJt6v9tBSTVRE7e_JUjQg
 
 ---
 
-
-# さらに宣伝 💡
+## さらに宣伝 💡
 
 - 社内 Slack に #club-game という channel を作っています 🎮
 - ゲームやってそうな人は招待しましたが、オープンなので気軽にご参加・ご退出ください 🙋
