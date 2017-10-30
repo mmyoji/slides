@@ -41,7 +41,7 @@
 
 ---
 
-![Video](https://www.youtube.com/embed/8iKGJT1TZRc&t=11m34s)
+![Video](https://www.youtube.com/embed/8iKGJT1TZRc?t=11m34s)
 
 ---
 
