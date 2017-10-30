@@ -56,7 +56,7 @@ https://www.youtube.com/channel/UCTrckUWmmrRZcNrfu1mZDOg
 
 ---
 
-![Video](https://youtu.be/0Rls46_jo58)
+![Video](https://www.youtube.com/embed/0Rls46_jo58)
 
 ---
 
@@ -71,7 +71,7 @@ https://www.youtube.com/channel/UCltOCekv4WA8EKicOFzZPBA/featured
 
 ---
 
-![Video](https://youtu.be/1LJL9NaOxHQ)
+![Video](https://www.youtube.com/embed/1LJL9NaOxHQ)
 
 ---
 
@@ -88,7 +88,7 @@ https://www.youtube.com/channel/UCoPJt6v9tBSTVRE7e_JUjQg
 
 ---
 
-![Video](https://youtu.be/LT-996AvaXE)
+![Video](https://www.youtube.com/embed/LT-996AvaXE)
 
 ---
 
