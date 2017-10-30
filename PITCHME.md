@@ -1,9 +1,9 @@
-# Here's a Title
+# Introduction to Machine Learning with Python
 
 ---
 
-## Heading 1
+# ~Ch2 p.45
 
 ---
 
-Thank you!
+:smile:
