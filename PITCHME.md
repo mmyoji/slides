@@ -140,13 +140,13 @@ ALL = TN + FP + FN + TP
 * 偽陽性率 FPR を 真陽性率 TPR に対してプロット
     * FPR = FP / (FP + TN)
     * 陰性のうち、間違って予測されたもの
-* カーブの右上が理想
+* カーブの左上が理想
 
 ---
 
 ## AUC
 
-* ROCカープの下の領域
+* ROCカーブの下の領域
 * Area Under the Curve
 * ROCカーブを１つの値にまとめることができる
 * `roc_auc_score`
