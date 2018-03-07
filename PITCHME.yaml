@@ -1,3 +1,4 @@
 theme: night
 slide-number: true
 # published: true
+mathjax: TeX-MML-AM_HTMLorMML-full
