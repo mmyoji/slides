@@ -1,3 +1,5 @@
 theme: template
 slide-number: true
-# published: true
+published: true
+lang: ja
+
