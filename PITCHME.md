@@ -36,6 +36,8 @@
 * 今は [LibSass](https://github.com/sass/libsass) という C++ 実装の compiler ができた
 * 言語に応じて LibSass を利用するための bindings を使う
     * e.g., Ruby なら [sassc-ruby](https://github.com/sass/sassc-ruby), Node.js なら [node-sass](https://github.com/sass/node-sass)
+* 2020-10-26 に [Sass: LibSass is Deprecated](https://sass-lang.com/blog/libsass-is-deprecated) が出て LibSass は deprecated になった
+* これからは DartSass を使うように
 
 ---
 
